@@ -36,7 +36,7 @@ public class Menu {
                 System.out.print(szamok[i]+ ", ");
         }
         Scanner bemenet = new Scanner(System.in);
-            System.out.println("MENÜ");
+            System.out.println("\nMENÜ");
             System.out.println("1 - összeget számoltatni");
             System.out.println("2 - szélsőértékeket kiíratni");
             System.out.println("3 - van-e benne 40-50");

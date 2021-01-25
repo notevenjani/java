@@ -4,12 +4,11 @@
  * and open the template in the editor.
  */
 package ismetles;
-
 import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author 36302
  */
 public class Ismetles {
 
@@ -17,6 +16,7 @@ public class Ismetles {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
         Scanner bemenet = new Scanner(System.in);
         int valasz;
         
@@ -34,4 +34,7 @@ public class Ismetles {
         
     }
     
-}
+
+    }
+    
+

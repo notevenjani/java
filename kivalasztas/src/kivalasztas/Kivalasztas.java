@@ -4,12 +4,11 @@
  * and open the template in the editor.
  */
 package kivalasztas;
-
 import java.util.Scanner;
 
 /**
  *
- * @author user
+ * @author 36302
  */
 public class Kivalasztas {
 
@@ -17,7 +16,7 @@ public class Kivalasztas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int elemSzam = (int) (Math.random() * 5) + 5;
+            int elemSzam = (int) (Math.random() * 5) + 5;
         int[] szamTomb1 = new int[elemSzam];
         int[] szamTomb2 = new int[elemSzam];
         int[] szamTomb3 = new int[elemSzam];
@@ -76,4 +75,7 @@ public class Kivalasztas {
         System.out.println("A keresett szám indexe: " + index);
 
     }
-}
+
+    }
+    
+
